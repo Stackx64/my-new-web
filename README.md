@@ -1,12 +1,12 @@
-AAbout the Project
+About the Project
 This is my first ever website! I made it with HTML and CSS to learn web stuff and make a page about myself.
 It has:
-About Me
-My Hobbies
+About Me,
+My Hobbies,
 Skills & Interests
-My Projects
+,My Projects,
 My Goals
-GitHub link
+GitHub link,
 How I Made It
 I made an "index.html" file first and built the website with HTML, using stuff like headings, paragraphs, sections, and links
 Then I made a "style.css" file and connected it to add colors, fonts, spacing, and hover effects
