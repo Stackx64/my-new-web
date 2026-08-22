@@ -5,12 +5,12 @@ About the Project
 
 This is my FIRST EVER personal website!! I made it with HTML and CSS to learn how websites work and to make a website all about ME.
 My website has:
-1.About Me
-2.My Hobbies
-3.Skills & Interests
-4.My Projects
-5.My Goal
-6.A link to my GitHub
+1)About Me
+2)My Hobbies
+3)Skills & Interests
+4)My Projects
+5)My Goal
+6)A link to my GitHub
 
 How I Made It
 First I made a file called "index.html" and started building the website with HTML. I used headings, paragraphs, sections, links, and a navigation bar (the menu at the top!).
