@@ -1,4 +1,4 @@
-About the Project
+AAbout the Project
 This is my first ever website! I made it with HTML and CSS to learn web stuff and make a page about myself.
 It has:
 About Me
